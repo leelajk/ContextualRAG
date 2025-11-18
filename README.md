@@ -8,13 +8,11 @@ Simple command-line Q&A system that ingests a short Dr. B.R. Ambedkar speech and
 - `requirements.txt` : Python dependencies.
 
 ## Requirements
-- Python 3.8+
-- Ollama installed locally and `mistral` model pulled.
-- A virtual environment (recommended).
+- Python: 3.8+ (Recommended 3.11)
+- RAM:
+    4GB+ for lightweight models (Orca-Mini)
+    8GB+ for Mistral 7B
+- Disk Space: ~10GB for large Ollama models
+- Ollama Installed: https://ollama.com
+- Input File: Plain text (.txt)
 
-## Setup (step-by-step)
-
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-url>
-   cd AmbedkarGPT-Intern-Task
