@@ -1,0 +1,9 @@
+langchain
+langchain-community
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+ollama
+numpy
+scikit-learn
