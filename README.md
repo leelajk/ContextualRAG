@@ -17,8 +17,9 @@ Simple command-line Q&A system that ingests a short Dr. B.R. Ambedkar speech and
 - Input File: Plain text (.txt)
 
 ## Usage
-- 'Interactive Mode'
+- `Interactive Mode`
 - Load a text file → ask any question → get contextual answers.
 
-## Batch Mode
+`Batch Mode`
 - Automate multiple queries for reports or research workflows (optional to add in future versions).
+
